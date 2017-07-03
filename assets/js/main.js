@@ -1,6 +1,6 @@
 window.onload = function() {
 
 	//Код скрипта здесь . . .
-	alert("Hello world!");
+	//alert("Hello world!");
 
 }
